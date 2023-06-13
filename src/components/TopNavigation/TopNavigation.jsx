@@ -48,12 +48,10 @@ class TopNavigation extends Component {
                             <Nav className="me-auto">
                             </Nav>
                             <Nav>
-                                <Nav.Link className={this.state.navBarItem} href="#deets">HOME</Nav.Link>
-                                <Nav.Link className={this.state.navBarItem} href="#deets">ABOUT</Nav.Link>
-                                <Nav.Link className={this.state.navBarItem} href="#deets">SERVICE</Nav.Link>
-                                <Nav.Link className={this.state.navBarItem} href="#deets">COURSES</Nav.Link>
-                                <Nav.Link className={this.state.navBarItem} href="#deets">PORTFOLIO</Nav.Link>
-                                <Nav.Link className={this.state.navBarItem} href="#deets">CONTACT US</Nav.Link>
+                                <Nav.Link className={this.state.navBarItem} href="#deets">Home</Nav.Link>
+                                <Nav.Link className={this.state.navBarItem} href="#deets">About</Nav.Link>
+                                <Nav.Link className={this.state.navBarItem} href="#deets">Services</Nav.Link>
+                                <Nav.Link className={this.state.navBarItem} href="#deets">Contact Us</Nav.Link>
                             </Nav>
                         </Navbar.Collapse>
                     </Container>
