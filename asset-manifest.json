@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/JordanLyn/static/css/main.dd1808a3.css",
+    "main.js": "/JordanLyn/static/js/main.0230fb72.js",
+    "static/js/787.dd4029b4.chunk.js": "/JordanLyn/static/js/787.dd4029b4.chunk.js",
+    "static/media/banner.jpg": "/JordanLyn/static/media/banner.cade6fd148ccdc2719be.jpg",
+    "static/media/train.mp4": "/JordanLyn/static/media/train.ecbb57d33e88ac8885ab.mp4",
+    "static/media/ContactUs.png": "/JordanLyn/static/media/ContactUs.8ec7c89dc02d70b7ec27.png",
+    "static/media/AboutUs4.png": "/JordanLyn/static/media/AboutUs4.a04918591192faf132fe.png",
+    "static/media/AboutUs6.png": "/JordanLyn/static/media/AboutUs6.c91005c4591b86680865.png",
+    "static/media/AboutUs2.png": "/JordanLyn/static/media/AboutUs2.b51f10f82d15e45f445d.png",
+    "static/media/AboutUs1.png": "/JordanLyn/static/media/AboutUs1.f1ec4d744ec5496ba2cc.png",
+    "static/media/AboutUs3.png": "/JordanLyn/static/media/AboutUs3.7db6906dff00782e58f5.png",
+    "static/media/AboutUs5.png": "/JordanLyn/static/media/AboutUs5.4d6ac0fef626a168b779.png",
+    "static/media/face.png": "/JordanLyn/static/media/face.025c48431f65964ea6a3.png",
+    "static/media/logo_black.png": "/JordanLyn/static/media/logo_black.b70f2d66617a99af0882.png",
+    "static/media/logo_white.png": "/JordanLyn/static/media/logo_white.1a1a6c4ca566ccf6a5f8.png",
+    "index.html": "/JordanLyn/index.html",
+    "main.dd1808a3.css.map": "/JordanLyn/static/css/main.dd1808a3.css.map",
+    "main.0230fb72.js.map": "/JordanLyn/static/js/main.0230fb72.js.map",
+    "787.dd4029b4.chunk.js.map": "/JordanLyn/static/js/787.dd4029b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd1808a3.css",
+    "static/js/main.0230fb72.js"
+  ]
+}
