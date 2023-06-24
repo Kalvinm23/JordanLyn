@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/JordanLyn/static/css/main.dd1808a3.css",
-    "main.js": "/JordanLyn/static/js/main.0230fb72.js",
+    "main.css": "/JordanLyn/static/css/main.6e4c0db5.css",
+    "main.js": "/JordanLyn/static/js/main.6eca9562.js",
     "static/js/787.dd4029b4.chunk.js": "/JordanLyn/static/js/787.dd4029b4.chunk.js",
     "static/media/banner.jpg": "/JordanLyn/static/media/banner.cade6fd148ccdc2719be.jpg",
     "static/media/train.mp4": "/JordanLyn/static/media/train.ecbb57d33e88ac8885ab.mp4",
@@ -16,12 +16,12 @@
     "static/media/logo_black.png": "/JordanLyn/static/media/logo_black.b70f2d66617a99af0882.png",
     "static/media/logo_white.png": "/JordanLyn/static/media/logo_white.1a1a6c4ca566ccf6a5f8.png",
     "index.html": "/JordanLyn/index.html",
-    "main.dd1808a3.css.map": "/JordanLyn/static/css/main.dd1808a3.css.map",
-    "main.0230fb72.js.map": "/JordanLyn/static/js/main.0230fb72.js.map",
+    "main.6e4c0db5.css.map": "/JordanLyn/static/css/main.6e4c0db5.css.map",
+    "main.6eca9562.js.map": "/JordanLyn/static/js/main.6eca9562.js.map",
     "787.dd4029b4.chunk.js.map": "/JordanLyn/static/js/787.dd4029b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd1808a3.css",
-    "static/js/main.0230fb72.js"
+    "static/css/main.6e4c0db5.css",
+    "static/js/main.6eca9562.js"
   ]
 }
